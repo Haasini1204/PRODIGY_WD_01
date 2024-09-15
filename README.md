@@ -1,6 +1,6 @@
 # PRODIGY_WD_01
 
-# Interactive Navigation Menu
+# Responsive Landing Page
 
 ## Overview
 
